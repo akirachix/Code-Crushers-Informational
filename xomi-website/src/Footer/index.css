@@ -1,0 +1,442 @@
+.banner-text{
+    border: solid palevioletred;
+    align-items: center;
+    background-color: palevioletred;
+    height: 300px;
+  }
+  .text{
+    height: 45px;
+    border-radius: 40px;
+    padding-left: 10px;
+  }
+  .headers{
+    color: white;
+    margin-top: 30px;
+  }
+  .button{
+    height: 50px;
+    border-radius: 40px;
+    width: 80px;
+    background-color: yellow;
+  }
+  .email-signup{
+    margin-top: 60px;
+  }
+  .div{
+    display: flex;
+    justify-content: center;
+  }
+
+.texts{
+    text-align: center;
+}  
+.mail-texts{
+    display: flex;
+    gap: 10px;
+}
+.tele-texts{
+    display: flex;
+    gap: 10px;
+}
+.det{
+    display: block;
+}
+.images{
+    margin-right: 310px;
+    display: flex;
+    gap: 15px;
+    margin-top: 15px;
+}
+.tele{
+    width: 35px;
+    height: 35px;
+    margin-top:5px ;
+}
+#mail{
+    width: 30px;
+    height: 40px;
+    margin-top: 5px;
+    margin-left: 3px;
+}
+.contact-info{
+    display: flex;
+    margin-top: 50px;
+}
+.navigation{
+    margin-right:350px ;
+}
+#xomi{
+    width: 150px;
+    margin-top: 40px;
+}
+@media all and (min-width:320px) and (max-width:480px){
+  .banner-text{
+    border: solid palevioletred;
+    align-items: center;
+    background-color: palevioletred;
+    height: 300px;
+    margin-top: -25px;
+  }
+
+  .text{
+    height: 45px;
+    border-radius: 40px;
+    padding-left: 10px;
+  }
+  .headers{
+    color: white;
+    margin-top: 10px;
+  }
+  .button{
+    height: 50px;
+    border-radius: 40px;
+    width: 80px;
+    background-color: yellow;
+  }
+  .email-signup{
+    margin-top: 60px;
+  }
+  .div{
+    display: flex;
+    justify-content: center;
+  }
+
+.texts{
+    text-align: center;
+}  
+.mail-texts{
+    display: flex;
+    gap: 10px;
+}
+.tele-texts{
+    display: flex;
+    gap: 5px;
+}
+.det{
+    display: block;
+}
+#facebook{
+  width: 30px;
+  height: 30px;
+}
+#insta{
+  width: 30px;
+  height: 30px;
+}
+#x{
+  width: 30px;
+  height: 30px;
+}
+.images{
+    margin-right: 3px;
+    display: flex;
+    gap: 10px;
+    margin-top: 15px;
+    
+}
+.tele{
+    width: 20px;
+    height: 25px;
+    margin-top:13px ;
+}
+#mail{
+    width: 15px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 3px;
+}
+.contact-info{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.navigation{
+    margin-right:10px ;
+}
+#xomi{
+    width: 50px;
+    margin-top: 50px;
+    margin-right: 7px;
+}
+}
+@media all and (min-width:769px) and (max-width:1024px){
+  .banner-text{
+    border: solid palevioletred;
+    align-items: center;
+    background-color: palevioletred;
+    height: 300px;
+    margin-top: -25px;
+  }
+
+  .text{
+    height: 45px;
+    border-radius: 40px;
+    padding-left: 10px;
+  }
+  .headers{
+    color: white;
+    margin-top: 10px;
+  }
+  .banner{
+    width: 1000px;
+  }
+  .button{
+    height: 50px;
+    border-radius: 40px;
+    width: 80px;
+    background-color: yellow;
+  }
+  .email-signup{
+    margin-top: 60px;
+  }
+  .div{
+    display: flex;
+
+  }
+
+.texts{
+    text-align: center;
+}  
+.mail-texts{
+    display: flex;
+    gap: 10px;
+}
+.tele-texts{
+    display: flex;
+    gap: 5px;
+}
+.det{
+    display: block;
+}
+#facebook{
+  width: 50px;
+  height: 50px;
+}
+#insta{
+  width: 50px;
+  height: 50px;
+}
+#x{
+  width: 50px;
+  height: 50px;
+}
+.images{
+    margin-right: 3px;
+    display: flex;
+    gap: 10px;
+    margin-top: 15px;
+    
+}
+.tele{
+    width: 60px;
+    height: 50px;
+    margin-top:5px ;
+}
+#mail{
+    width: 50px;
+    height: 50px;
+    margin-top: 5px;
+    margin-left: 3px;
+}
+.contact-info{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+.navigation{
+    margin-right:40px ;
+}
+#xomi{
+    width: 100px;
+    margin-top: 30px;
+    margin-right: 5px;
+}
+}
+@media all and (min-width:481px) and (max-width:768px){
+  .banner-text{
+    border: solid palevioletred;
+    align-items: center;
+    background-color: palevioletred;
+    height: 300px;
+    margin-top: -25px;
+  }
+
+  .text{
+    height: 45px;
+    border-radius: 40px;
+    padding-left: 10px;
+  }
+  .headers{
+    color: white;
+    margin-top: 10px;
+  }
+  .banner{
+    width: 1000px;
+  }
+  .button{
+    height: 50px;
+    border-radius: 40px;
+    width: 80px;
+    background-color: yellow;
+  }
+  .email-signup{
+    margin-top: 60px;
+  }
+  .div{
+    display: flex;
+
+  }
+
+.texts{
+    text-align: center;
+}  
+.mail-texts{
+    display: flex;
+    gap: 10px;
+}
+.tele-texts{
+    display: flex;
+    gap: 5px;
+}
+.det{
+    display: block;
+}
+#facebook{
+  width: 50px;
+  height: 50px;
+}
+#insta{
+  width: 50px;
+  height: 50px;
+}
+#x{
+  width: 50px;
+  height: 50px;
+}
+.images{
+    margin-right: 3px;
+    display: flex;
+    gap: 10px;
+    margin-top: 15px;
+    
+}
+.tele{
+    width: 60px;
+    height: 50px;
+    margin-top:5px ;
+}
+#mail{
+    width: 50px;
+    height: 50px;
+    margin-top: 5px;
+    margin-left: 3px;
+}
+.contact-info{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+.navigation{
+    margin-right:40px ;
+}
+#xomi{
+    width: 100px;
+    margin-top: 30px;
+    margin-right: 5px;
+}
+}
+
+@media all and (min-width:1025px) and (max-width:1280px){
+  .banner-text{
+    border: solid palevioletred;
+    align-items: center;
+    background-color: palevioletred;
+    height: 300px;
+    margin-top: -25px;
+  }
+
+  .text{
+    height: 45px;
+    border-radius: 40px;
+    padding-left: 10px;
+  }
+  .headers{
+    color: white;
+    margin-top: 10px;
+  }
+  .banner{
+    width: 1000px;
+  }
+  .button{
+    height: 50px;
+    border-radius: 40px;
+    width: 80px;
+    background-color: yellow;
+  }
+  .email-signup{
+    margin-top: 60px;
+  }
+  .div{
+    display: flex;
+
+  }
+
+.texts{
+    text-align: center;
+}  
+.mail-texts{
+    display: flex;
+    gap: 10px;
+}
+.tele-texts{
+    display: flex;
+    gap: 5px;
+}
+.det{
+    display: block;
+}
+#facebook{
+  width: 50px;
+  height: 50px;
+}
+#insta{
+  width: 50px;
+  height: 50px;
+}
+#x{
+  width: 50px;
+  height: 50px;
+}
+.images{
+    margin-right: 3px;
+    display: flex;
+    gap: 10px;
+    margin-top: 15px;
+    
+}
+.tele{
+    width: 60px;
+    height: 50px;
+    margin-top:5px ;
+}
+#mail{
+    width: 50px;
+    height: 50px;
+    margin-top: 5px;
+    margin-left: 3px;
+}
+.contact-info{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+.navigation{
+    margin-right:40px ;
+}
+#xomi{
+    width: 100px;
+    margin-top: 30px;
+    margin-right: 5px;
+}
+
+}
