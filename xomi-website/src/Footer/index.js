@@ -14,7 +14,7 @@ const Banner=()=> {
         <div className='headers'>
         <h1>Subscribe To Our Newsletter</h1>
         <br></br>
-        <p>To get newly updated news</p>
+        <p className='header2'>To get newly updated news</p>
         </div>
          <div className="email-signup">
           <input className="text" type="text" placeholder="Enter email address" />
@@ -27,11 +27,11 @@ const Banner=()=> {
         <div className='tele-texts'>
         <img className='tele' src={telephone} alt=''/>
      
-      <p>:+2547645678</p>
+      <p className='tel'>:+2547645678</p>
       </div>
       <div className='mail-texts'>
       <img id='mail' src={mail} alt=''/>
-        <p>:@Xomi. Co.Ke</p>
+        <p className='email'>:@Xomi. Co.Ke</p>
         </div>
         <div className='images'>
         <img id="facebook" src={facebook} alt='facebook socials'/>
