@@ -6,7 +6,7 @@ import twitter from '../images/twitter.png';
 import mail from '../images/mail.png'
 import telephone from '../images/telephone.png'
 import logo from '../images/logo.png'
-const Banner=()=> {
+const Footer=()=> {
   return (
     <div className='container'>
     <div className="banner">
@@ -55,4 +55,4 @@ const Banner=()=> {
   );
 }
 
-export default Banner;
+export default Footer;

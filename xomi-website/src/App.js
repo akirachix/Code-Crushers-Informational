@@ -1,10 +1,10 @@
-import Banner from './Footer'
+import Footer from './Footer'
 import './index.css';
 
 const App = () =>{
   return(
     <div>
-    <Banner/>
+    <Footer/>
     </div>
   )
 }
