@@ -9,8 +9,8 @@ import logo from '../images/logo.png'
 const Footer=()=> {
   return (
     <div className='container'>
-    <div className="banner">
-      <div className="banner-text">
+    <div className="footer">
+      <div className="footer-text">
         <div className='headers'>
         <h1>Subscribe To Our Newsletter</h1>
         <br></br>

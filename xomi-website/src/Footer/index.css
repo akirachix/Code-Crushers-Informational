@@ -1,4 +1,4 @@
-.banner-text{
+.footer-text{
   border: solid palevioletred;
   align-items: center;
   background-color: palevioletred;
@@ -106,7 +106,7 @@ width: 60px;
 
 }
 @media all and (min-width:320px) and (max-width:480px){
-.banner-text{
+.footer-text{
   border: solid palevioletred;
   align-items: center;
   background-color: palevioletred;
@@ -216,7 +216,7 @@ margin-bottom: 50px;
 }
 }
 @media all and (min-width:769px) and (max-width:1024px){
-.banner-text{
+.footer-text{
   border: solid palevioletred;
   align-items: center;
   background-color: palevioletred;
@@ -323,7 +323,7 @@ height: 40px;
 
 }}
 @media all and (min-width:481px) and (max-width:768px){
-.banner-text{
+.footer-text{
   border: solid palevioletred;
   align-items: center;
   background-color: palevioletred;
@@ -416,7 +416,7 @@ height: 50px;
 }
 
 @media all and (min-width:1025px) and (max-width:1280px){
-.banner-text{
+.footer-text{
   border: solid palevioletred;
   align-items: center;
   background-color: palevioletred;
