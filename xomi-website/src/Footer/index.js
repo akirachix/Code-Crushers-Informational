@@ -8,7 +8,7 @@ import telephone from '../images/telephone.png'
 import logo from '../images/logo.png'
 const Banner=()=> {
   return (
-    <div className='div'>
+    <div className='container'>
     <div className="banner">
       <div className="banner-text">
         <div className='headers'>

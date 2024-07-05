@@ -3,9 +3,7 @@ import './index.css';
 
 const App = () =>{
   return(
-    <div className='texts'> 
-   
-    <h1> </h1>
+    <div>
     <Banner/>
     </div>
   )
