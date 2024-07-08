@@ -1,8 +1,14 @@
 import Courses from './Courses';
+import Footer from './Footer';
 
 function App() {
   return (
-    <Courses/>
+    <div>
+       <Courses/>
+    <Footer/>
+    </div>
+   
+    
 
   );
 }
