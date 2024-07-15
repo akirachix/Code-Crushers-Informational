@@ -1,4 +1,4 @@
-import logo from "../images/logo.png";
+import logoImage from "../images/logoImage.png.png";
 import React, { useState } from 'react';
 import { FaBars,FaTimes} from 'react-icons/fa';
 import './index.css'
@@ -16,7 +16,7 @@ const Navbar = () => {
       <div isOpen = {isOpen}>
 <div className='nav'>
 <div>
-  <img src={logo} alt="xomi-logo" id='landingpagelogo'/>
+  <img src={logoImage} alt="xomi-logo" id='landingpagelogo'/>
   </div>
   <button className='hamburger-button' onClick={toggleMenu}>
     {isOpen ? <FaTimes/> : <FaBars />}
