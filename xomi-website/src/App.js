@@ -1,11 +1,22 @@
-import Homepage from './Homepage'
+import LandingPage from './LandingPage'
+import Navbar from './Navbar'
 
-const homepage = ()=>{
+import React from 'react';
+
+
+const app = ()=>{
   return(
     <div className="landing-Page">
-      <Homepage/>      
+      <Navbar/>
+      <LandingPage/>  
+      
     </div>
   )
 };
 
-export default homepage;
+
+
+export default app;
+
+
+
