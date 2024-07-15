@@ -1,8 +1,6 @@
 import LandingPage from './LandingPage'
 import Navbar from './Navbar'
-
 import React from 'react';
-
 
 const app = ()=>{
   return(
@@ -15,6 +13,7 @@ const app = ()=>{
 };
 
 export default app;
+
 
 
 

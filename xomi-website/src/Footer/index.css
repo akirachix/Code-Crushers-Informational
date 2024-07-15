@@ -1,0 +1,531 @@
+.footer-text{
+  border: solid palevioletred;
+  align-items: center;
+  background-color: palevioletred;
+  height: 300px;
+  width: 1800px;
+}
+.tel{
+  font-size:x-large;
+}
+.text{
+  height: 47px;
+  border-radius: 5px;
+  padding-left: 10px;
+  width: 500px;
+  border: none;
+  border-color: white;
+}
+
+.headers{
+  color: white;
+  margin-top: -20px;
+  font-size: xx-large;
+}
+.header2{
+ font-size: x-large;
+ margin-top: -50px;
+}
+.button{
+  height: 50px;
+  border-radius: 5px;
+  width: 100px;
+  border: none;
+  background-color: yellow;
+}
+.email-signup{
+  margin-top: 60px;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+.container{
+  display: flex;
+  justify-content: center;
+}
+
+.texts{
+  text-align: center;
+}  
+.mail-texts{
+  display: flex;
+  gap: 10px;
+  /* margin-right: 12%; */
+}
+.tele-texts{
+  display: flex;
+  gap: 10px;
+}
+.det{
+  display: block;
+}
+
+.images{
+  margin-right: 610px;
+  display: flex;
+  gap: 25px;
+  margin-top: 15px;
+  width: 30px;
+  height: 40px;
+}
+.email{
+font-size: x-large;
+}
+#facebook{
+width: 60px;
+width: 60px;
+}
+#instagram{
+width: 60px;
+width: 60px;
+}
+#x{
+width: 60px;
+width: 60px;
+}
+.tele{
+  width: 40px;
+  height: 40px;
+  margin-top:20px ;
+}
+#mail{
+  width: 40px;
+  height: 45px;
+  margin-top: 17px;
+  margin-left: 3px;
+}
+.contact-info{
+  display: flex;
+  margin-top: 50px;
+  /* margin-left: -20%; */
+}
+.navigation{
+  margin-right:270px ;
+  font-size: x-large;
+  margin-left:4%;
+}
+
+#xomi{
+  width: 250px;
+  margin-top: 40px;
+  margin-left: 300px;
+
+}
+@media all and (min-width:320px) and (max-width:480px){
+.footer-text{
+  border: solid palevioletred;
+  align-items: center;
+  background-color: palevioletred;
+  height: 300px;
+  width: 96%;
+  margin-top: -25px;
+ 
+}
+.tel{
+  font-size:small;
+}
+.text{
+  height: 45px;
+  border-radius: 10px;
+  padding-left: 10px;
+  width: 200px;
+  border-color: white;
+}
+.headers{
+  color: white;
+  margin-top: -2px;
+  font-size: medium;
+}
+.header2{
+ font-size: medium;
+ margin-top: -0px;
+}
+.button{
+  height: 50px;
+  border-radius: 10px;
+  width: 80px;
+  border-color: yellow;
+  background-color: yellow;
+}
+.email-signup{
+  margin-top: 60px;
+}
+.container{
+  display: flex;
+  justify-content: center;
+}
+.texts{
+  text-align: center;
+}  
+.mail-texts{
+  display: flex;
+  gap: 10px;
+  display: flex;
+
+}
+.tele-texts{
+  display: flex;
+  gap: 10px;
+}
+.det{
+  display: block;
+}
+.images{
+  margin-right: 10px;
+  display: flex;
+  gap: 15px;
+  margin-top: 15px;
+}
+.email{
+font-size:small;
+}
+#facebook{
+width: 30px;
+height: 30px;
+}
+#insta{
+width: 30px;
+height: 30px;
+}
+#x{
+width: 30px;
+height:  30px;
+}
+.tele{
+  width: 30px;
+  height: 30px;
+  margin-top:5px ;
+  font-size: small;
+}
+#mail{
+  width: 30px;
+  height: 30px;
+  margin-top: 5px;
+  margin-left: 3px;
+  
+}
+.contact-info{
+  display: block;
+  width: 90%;
+  margin-top: 30px;
+}
+.navigation{
+  margin-right:30px ;
+  font-size:small;
+}
+.details{
+margin-left: 100px;
+margin-bottom: 50px;
+
+}
+#xomi{
+  width: 80px;
+  margin-top: 40px;
+  margin-left: 5%;
+}
+}
+@media all and (min-width:769px) and (max-width:1024px){
+.footer-text{
+  border: solid palevioletred;
+  align-items: center;
+  background-color: palevioletred;
+  height: 300px;
+  width: 800px;
+}
+.tel{
+  font-size:large;
+}
+.text{
+  height: 50px;
+  border-radius: 10px;
+  padding-left: 10px;
+  border-color: white;
+  width: 200px;
+}
+
+.headers{
+  color: white;
+  margin-top: -20px;
+  font-size: large;
+}
+.header2{
+ font-size: large;
+ margin-top: -0px;
+}
+.button{
+  height: 50px;
+  border-radius: 10px;
+  width: 150px;
+  border-color: yellow;
+  background-color: yellow;
+}
+.email-signup{
+  margin-top: 60px;
+
+}
+.container{
+  display: flex;
+  justify-content: center;
+}
+
+.texts{
+  text-align: center;
+}  
+.mail-texts{
+  display: flex;
+  gap: 10px;
+}
+.tele-texts{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.det{
+  display: block;
+}
+
+.images{
+  margin-right: 110px;
+  display: flex;
+  gap: 15px;
+  margin-top: 10px;
+}
+.email{
+font-size:large;
+}
+#facebook{
+width: 40px;
+height: 40px;
+}
+#insta{
+width: 40px;
+height: 40px;
+}
+#x{
+width: 40px;
+height: 40px;
+}
+.tele{
+  width: 40px;
+  height: 40px;
+  margin-top:5px ;
+}
+#mail{
+  width: 40px;
+  height: 45px;
+  margin-top: 5px;
+  margin-left: 3px;
+}
+.contact-info{
+  display: flex;
+  margin-top: 50px;
+}
+.navigation{
+  margin-right:150px ;
+  font-size: large;
+}
+
+#xomi{
+  width: 150px;
+  margin-top: 40px;
+  margin-left: 70px;
+
+}}
+@media all and (min-width:481px) and (max-width:768px){
+.footer-text{
+  border: solid palevioletred;
+  align-items: center;
+  background-color: palevioletred;
+  height: 300px;
+  margin-top: -25px;
+}
+
+.text{
+  height: 45px;
+  border-radius: 10px;
+  padding-left: 10px;
+}
+.headers{
+  color: white;
+  margin-top: 10px;
+}
+.banner{
+  width: 1000px;
+}
+.button{
+  height: 50px;
+  border-radius: 10px;
+  width: 80px;
+  background-color: yellow;
+  border: none;
+}
+.email-signup{
+  margin-top: 60px;
+}
+.container{
+  display: flex;
+}
+.texts{
+  text-align: center;
+}  
+.mail-texts{
+  display: flex;
+  gap: 10px;
+}
+.tele-texts{
+  display: flex;
+  gap: 5px;
+}
+.det{
+  display: block;
+}
+#facebook{
+width: 50px;
+height: 50px;
+}
+#insta{
+width: 50px;
+height: 50px;
+}
+#x{
+width: 50px;
+height: 50px;
+}
+.images{
+  margin-right: 3px;
+  display: flex;
+  gap: 10px;
+  margin-top: 15px;
+  
+}
+.tele{
+  width: 60px;
+  height: 50px;
+  margin-top:5px ;
+}
+#mail{
+  width: 50px;
+  height: 50px;
+  margin-top: 5px;
+  margin-left: 3px;
+}
+.contact-info{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+}
+.navigation{
+  margin-right:40px ;
+}
+#xomi{
+  width: 100px;
+  margin-top: 30px;
+  margin-right: 5px;
+}
+}
+
+@media all and (min-width:1025px) and (max-width:1280px){
+.footer-text{
+  border: solid palevioletred;
+  align-items: center;
+  background-color: palevioletred;
+  height: 300px;
+  margin-top: -25px;
+  width: 1300px;
+  margin-left: -140px;
+}
+.details{
+margin-left: -80px;
+}
+.text{
+  height: 45px;
+  border-radius: 5px;
+  padding-left: 10px;
+  border: none;
+}
+.headers{
+  color: white;
+  margin-top: 10px;
+}
+.banner{
+  width: 1000px;
+}
+.button{
+  height: 48px;
+  border-radius: 5px;
+  border-color: yellow;
+  width: 110px;
+  border: none;
+}
+.email-signup{
+  margin-top: 60px;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+.container{
+  display: flex;
+
+}
+.logo{
+margin-left: 200px;
+}
+.texts{
+  text-align: center;
+}  
+.mail-texts{
+  display: flex;
+  gap: 10px;
+}
+.tele-texts{
+  display: flex;
+  gap: 5px;
+}
+.det{
+  display: block;
+}
+#facebook{
+width: 50px;
+height: 50px;
+}
+#insta{
+width: 50px;
+height: 50px;
+}
+#x{
+width: 50px;
+height: 50px;
+}
+.images{
+  margin-right: 3px;
+  display: flex;
+  gap: 10px;
+  margin-top: 15px;
+  
+}
+.tele{
+  width: 60px;
+  height: 50px;
+  margin-top:15px ;
+}
+#mail{
+  width: 50px;
+  height: 50px;
+  margin-top: 15px;
+  margin-left: 3px;
+}
+.contact-info{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+margin-right: 1100px;
+}
+.navigation{
+  margin-right:-1100px ;
+}
+#xomi{
+  width: 100px;
+  margin-top: 30px;
+  margin-right:-2200px;
+}
+}

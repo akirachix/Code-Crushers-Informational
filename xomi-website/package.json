@@ -10,8 +10,12 @@
     "hamburger-react": "^2.5.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+<<<<<<< HEAD
     "react-icons": "^5.2.1",
     "react-scripts": "5.0.1",
+=======
+    "react-scripts": "^5.0.1",
+>>>>>>> c3007225c65f0f54d17bdae32a424b228d3cc333
     "web-vitals": "^2.1.4"
   },
   "scripts": {
