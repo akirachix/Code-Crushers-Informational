@@ -1,11 +1,15 @@
-import Footer from './Footer'
-import './index.css';
+import Courses from './Courses';
+import Footer from './Footer';
 
-const App = () =>{
-  return(
+function App() {
+  return (
     <div>
+       <Courses/>
     <Footer/>
     </div>
-  )
+   
+    
+
+  );
 }
 export default App;
