@@ -37,6 +37,7 @@
     margin-top: 100px;
     background-color: aqua;
     margin-left: 15px;
+    border: none;
 }
 @media screen and (min-width:280px) and (max-width:300px) {
  
@@ -93,7 +94,7 @@
         height: 300px;
         padding-right: 0px;
         margin-top:-80px;
-        margin-left: 66px;
+        margin-left: 63px;
 }
     .landing-text{
         display: block;
@@ -172,7 +173,7 @@
  
 .landing-page-body{
     display:flex;
-    gap: 0px;
+    gap: 90px;
 }
 .school-boy{
     width: 500px;
@@ -220,11 +221,11 @@
         border-radius: 150px;
         height: 520px;
         margin-top: 0px;
-        margin-left: 109px;
+        margin-left: 120px;
     }
     .landing-text{
         display: block;
-        font-size: 25px;
+        font-size: 20px;
         margin-left: 90px;
         margin-top: 5px;
         width: 100%;

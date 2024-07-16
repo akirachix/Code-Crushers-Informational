@@ -1,9 +1,7 @@
-import logoImage from "../images/logoImage.png.png";
+import logoImage from "../images/logoImage.png";
 import React, { useState } from 'react';
 import { FaBars,FaTimes} from 'react-icons/fa';
 import './index.css'
-
-
 const Navbar = () => {
     const [isOpen, setIsOpen] = useState(false);
     
