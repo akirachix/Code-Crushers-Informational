@@ -1,0 +1,172 @@
+.body-text{
+    font-size: 35px;  
+    margin-left: 21%;  
+}
+.book-icon{
+  display: flex;
+  gap: 50px;
+  margin-left: 40px;
+
+}
+p{
+    line-height: 60px;
+}
+.images{
+    width: 55px;
+    height: 55px;  
+    position: relative; 
+   bottom: 12px;
+}
+.icon-text{
+    display: block;
+    font-size: 25px;
+    gap: 60px;
+    position: relative;
+    top: 60px;
+    line-height: 70px;
+    
+    
+}
+.text1{
+    position: relative;
+    left: 15px;
+}
+.shield-icon{
+    position: relative;
+    top: 4px;
+}
+ .image{
+    width: 500px;
+    height: 400px;
+} 
+.icon1{
+    display: flex;
+}
+.icon2{
+    display: flex;
+}
+.icon3{
+    display: flex;
+}
+.icon4{
+    display: flex;
+}
+
+@media screen and (min-width:280px) and (max-width:667px){
+    .body-text{
+        font-size: 25px; 
+        position: relative; 
+        right: 50px;
+       
+    }
+    .book-icon{
+      display:block ;
+      gap: 50px;
+      position: relative;
+      right: 30px;
+      
+    
+    }
+    p{
+        line-height: 50px;
+    }
+    .images{
+        width: 55px;
+        height: 55px;  
+        position: relative; 
+       bottom: 12px;
+    }
+    .icon-text{
+        display: block;
+        font-size: 25px;
+        gap: 60px;
+        position: relative;
+        top: 60px;
+        line-height: 40px;
+        
+        
+    }
+    .text1{
+        position: relative;
+        left: 15px;
+    }
+    .shield-icon{
+        position: relative;
+        top: 4px;
+    }
+     .image{
+        width: 200px;
+        height: 200px;
+    } 
+    .icon1{
+        display: flex;
+    }
+    .icon2{
+        display: flex;
+    }
+    .icon3{
+        display: flex;
+    }
+    .icon4{
+        display: flex;
+    }
+}
+@media screen and (min-width:768px) and (max-width:1024px){
+    .body-text{
+        font-size: 35px;  
+        position: relative;
+        right: 70px;  
+    }
+    .image-icon{
+      display: flex;
+      gap: 10px;
+      position: relative;
+      right: 130px;
+    
+    }
+    p{
+        line-height: 60px;
+    }
+    .images{
+        width: 55px;
+        height: 55px;  
+        position: relative; 
+       bottom: 12px;
+    }
+    .icon-text{
+        display: block;
+        font-size: 25px;
+        gap: 60px;
+        position: relative;
+        top: 60px;
+        line-height: 50px;
+        
+        
+    }
+    .text1{
+        position: relative;
+        left: 15px;
+    }
+    .shield-icon{
+        position: relative;
+        top: 4px;
+    }
+     .image{
+        width: 500px;
+        height: 400px;
+    } 
+    .icon1{
+        display: flex;
+    }
+    .icon2{
+        display: flex;
+    }
+    .icon3{
+        display: flex;
+    }
+    .icon4{
+        display: flex;
+    }
+    
+
+}
