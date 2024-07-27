@@ -1,0 +1,297 @@
+.about-text{
+    line-height: 50px;
+    font-size: 30px;
+    width: 1750px;
+}
+.book-icon{
+    display: flex;
+    gap: 100px;
+}
+.shield-icons{
+    position: relative;
+    top: 60px;
+    font-size: 20px;
+    line-height: 50px;
+}
+.about-section{
+    /* position: relative; */
+    left: 19%;
+    width: 1750px;
+}
+.icon{
+    position: relative;
+    top: 5px;
+}
+@media screen and (min-width:0px) and (max-width:300px){
+    .about-text{
+        line-height: 50px;
+        font-size: 25px;
+        width: 97%;
+    }
+    .book-icon{
+        display: block;
+        gap: 100px;
+    }
+    .shield-icons{
+        position: relative;
+        top: 60px;
+        font-size: 20px;
+        line-height: 50px;
+    }
+    .about-section{
+        position: relative;
+        left: 2%;
+        width: 97%;
+    }
+    .icon{
+        position: relative;
+        top: 5px;
+    }
+   
+
+}
+@media screen and (min-width:301px) and (max-width:400px){
+    .about-text{
+        line-height: 50px;
+        font-size: 20px;
+        width: 98%;
+    }
+    .book-icon{
+        display: block;
+        gap: 100px;
+        width: 98%;
+        margin-left: 10px;
+    }
+    .shield-icons{
+        position: relative;
+        top: 60px;
+        font-size: 15px;
+        line-height: 50px;
+    }
+    .about-section{
+        position: relative;
+        left: 1%;
+        width: 98%;
+    }
+    .icon{
+        position: relative;
+        top: 5px;
+    }
+   
+    
+}
+@media screen and (min-width:401px) and (max-width:580px){
+    .about-text{
+        line-height: 50px;
+        font-size: 20px;
+        width: 98%;
+    }
+    .book-icon{
+        display: block;
+        gap: 100px;
+        width: 98%;
+        margin-left: 10px;
+    }
+    .shield-icons{
+        position: relative;
+        top: 60px;
+        font-size: 15px;
+        line-height: 50px;
+    }
+    .about-section{
+        position: relative;
+        left: 1%;
+        width: 98%;
+    }
+    .icon{
+        position: relative;
+        top: 5px;
+    }
+   
+    
+    
+}
+@media screen and (min-width:581px) and (max-width:680px){
+    .about-text{
+        line-height: 50px;
+        font-size: 20px;
+        width: 98%;
+    }
+    .book-icon{
+        display: block;
+        gap: 100px;
+        width: 98%;
+        margin-left: 10px;
+    }
+    .shield-icons{
+        position: relative;
+        top: 60px;
+        font-size: 15px;
+        line-height: 50px;
+    }
+    .about-section{
+        position: relative;
+        left: 1%;
+        width: 98%;
+    }
+    .icon{
+        position: relative;
+        top: 5px;
+    }
+   
+    
+}
+@media screen and (min-width:681px) and (max-width:800px){
+    .about-text{
+        line-height: 50px;
+        font-size: 20px;
+        width: 98%;
+    }
+    .book-icon{
+        display: flex;
+        gap: 100px;
+        width: 98%;
+        margin-left: 10px;
+    }
+    .shield-icons{
+        position: relative;
+        top: 60px;
+        font-size: 15px;
+        line-height: 50px;
+    }
+    .about-section{
+        position: relative;
+        left: 1%;
+        width: 98%;
+    }
+    .icon{
+        position: relative;
+        top: 5px;
+    }
+   
+    
+}
+
+@media screen and (min-width:801px) and (max-width:880px){
+    .about-text{
+        line-height: 50px;
+        font-size: 20px;
+        width: 98%;
+    }
+    .book-icon{
+        display: flex;
+        gap: 100px;
+        width: 98%;
+        margin-left: 10px;
+    }
+    .shield-icons{
+        position: relative;
+        top: 60px;
+        font-size: 15px;
+        line-height: 50px;
+    }
+    .about-section{
+        position: relative;
+        left: 1%;
+        width: 98%;
+    }
+    .icon{
+        position: relative;
+        top: 5px;
+    }
+   
+    
+}
+@media screen and (min-width:881px) and (max-width:1020px){
+    .about-text{
+        line-height: 50px;
+        font-size: 28px;
+        width: 98%;
+    }
+    .book-icon{
+        display: flex;
+        gap: 100px;
+        width: 98%;
+        margin-left: 10px;
+    }
+    .shield-icons{
+        position: relative;
+        top: 60px;
+        font-size: 25px;
+        line-height: 50px;
+    }
+    .about-section{
+        position: relative;
+        left: 1%;
+        width: 98%;
+    }
+    .icon{
+        position: relative;
+        top: 5px;
+    }
+   
+    
+    
+}
+@media screen and (min-width:1021px) and (max-width:1250px){
+    .about-text{
+        line-height: 50px;
+        font-size: 32px;
+        width: 98%;
+    }
+    .book-icon{
+        display: flex;
+        gap: 100px;
+        width: 98%;
+        margin-left: 10px;
+    }
+    .shield-icons{
+        position: relative;
+        top: 60px;
+        font-size: 25px;
+        line-height: 50px;
+    }
+    .about-section{
+        position: relative;
+        left: 1%;
+        width: 98%;
+    }
+    .icon{
+        position: relative;
+        top: 5px;
+    }
+   
+    
+    
+    
+}
+@media screen and (min-width:1251px) and (max-width:1500px){
+    .about-text{
+        line-height: 50px;
+        font-size: 40px;
+        width: 98%;
+    }
+    .book-icon{
+        display: flex;
+        gap: 100px;
+        width: 98%;
+        margin-left: 10px;
+    }
+    .shield-icons{
+        position: relative;
+        top: 60px;
+        font-size: 30px;
+        line-height: 50px;
+    }
+    .about-section{
+        position: relative;
+        left: 1%;
+        width: 98%;
+    }
+    .icon{
+        position: relative;
+        top: 5px;
+    }
+   
+    
+}
