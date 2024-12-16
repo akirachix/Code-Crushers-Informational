@@ -1,15 +1,19 @@
-import Courses from './Courses';
-import Footer from './Footer';
+import LandingPage from './LandingPage'
+import Navbar from './Navbar'
+import React from 'react';
 
-function App() {
-  return (
-    <div>
-       <Courses/>
-    <Footer/>
+const app = ()=>{
+  return(
+    <div className="landing-Page">
+      <Navbar/>
+      <LandingPage/>  
+      
     </div>
-   
-    
+  )
+};
 
-  );
-}
-export default App;
+export default app;
+
+
+
+
